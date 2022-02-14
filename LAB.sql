@@ -1,6 +1,6 @@
-DROP DATABASE `order-DIRECTORY`;
-CREATE DATABASE `order-DIRECTORY`;
-USE `order-DIRECTORY`;
+-- DROP DATABASE `order-directory`;
+-- CREATE DATABASE `order-directory`;
+-- USE `order-directory`;
 
 
 -- 1.Table Creation Queries
